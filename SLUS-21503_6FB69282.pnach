@@ -1,0 +1,11 @@
+gametitle=God Hand (NTCS-US) SLUS-21503 6FB69282
+
+
+[60 FPS]
+author=Seville
+description=60fps patch.
+patch=1,EE,00747A09,extended,00000001
+patch=1,EE,00395204,word,3c050000 //00052c00
+patch=1,EE,0039520c,word,3c060050 //00063400
+patch=1,EE,00395214,word,3c070001 //00073c00
+patch=1,EE,00396594,word,3c090010 //00094c00
