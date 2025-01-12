@@ -1,4 +1,4 @@
-this is godhand ps2 60fps patch for PCSX2
+this is godhand ps2 60fps patch for PCSX2. Works on SLUS-21503 US version of the game
 put 'SLUS-21503_6FB69282.pnach' in C:\Users\yourusername\Documents\PCSX2\patches
 right click on the game and go to Properties --> Patches -->  enable "60fps mod"
 right click on the game and go to Properties --> Emulation
